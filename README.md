@@ -1,3 +1,2 @@
-#Database Assignment 2
-
-##
+# DBMS Assignment 2
+## Employee Attendance Management System
